@@ -9,3 +9,4 @@ I am an MSc in Computer Science with specialization in the field of AI and Robot
 
   
 
+Fun Fact:- I would like to go to Mars :P
