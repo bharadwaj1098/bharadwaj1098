@@ -5,8 +5,9 @@ I am an MSc in Computer Science with specialization in the field of AI and Robot
   <br>
   I'm Skilled in Python, Pytorch, Sql and NoSql databases, Javascript 🙂
   
-<a href="https://metrics.lecoq.io/about/bharadwaj1098"><img src="metrics-leftside.svg" align="left" width="47.5%"></img></a><a href="https://metrics.lecoq.io/about/bharadwaj1098"><img src="metrics-rightside.svg" align="right" width="47.5%"></img></a>
-
   
-
-Fun Fact:- I would like to go to Mars :P
+  
+  Fun Fact:- I would like to go to Mars :P
+  
+  
+<a href="https://metrics.lecoq.io/about/bharadwaj1098"><img src="metrics-leftside.svg" align="left" width="47.5%"></img></a><a href="https://metrics.lecoq.io/about/bharadwaj1098"><img src="metrics-rightside.svg" align="right" width="47.5%"></img></a>
