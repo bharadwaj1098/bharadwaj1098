@@ -3,7 +3,7 @@
 I am an MSc in Computer Science with specialization in the field of AI and Robotics. I believe in being a jack of all trades but, sill better than master of one and this allows me to have freedom to explore the fields, build projects as I go. A true nerdy engineer by heart :)
 
   <br>
-  I'm Skilled in Python, Pytorch, Sql and NoSql databases, Javascript 🙂
+  I'm Skilled in Python, Pytorch, Sql and NoSql databases, Javascript, Golang, Docker, Kubernetes, AWS 🙂
   
   
   
